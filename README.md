@@ -22,6 +22,8 @@
 4. Ejecuta el siguiente comando:
    ```bash
    python task_manager_gui.py
+   
+“Autor **Oderlin Sanchez**”
 
 <!---
 Oderlin/Oderlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
